@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dijon Three Seater Sofa in Dark Brown Colour by Auspicious Home</folder>
+	<filename>Dijon Three Seater Sofa in Dark Brown Colour by Auspicious Home-5.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\Three Seater Sofas\Dijon Three Seater Sofa in Dark Brown Colour by Auspicious Home\Dijon Three Seater Sofa in Dark Brown Colour by Auspicious Home-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dijon Three Seater Sofa in Dark Brown Colour by Auspicious Home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>22</ymin>
+			<xmax>1582</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+</annotation>

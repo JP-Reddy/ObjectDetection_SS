@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dime Three Seater Sofa in Grey Colour by Zofa</folder>
+	<filename>Dime Three Seater Sofa in Grey Colour by Zofa-1.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\Three Seater Sofas\Dime Three Seater Sofa in Grey Colour by Zofa\Dime Three Seater Sofa in Grey Colour by Zofa-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dime Three Seater Sofa in Grey Colour by Zofa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>168</ymin>
+			<xmax>1536</xmax>
+			<ymax>760</ymax>
+		</bndbox>
+	</object>
+</annotation>

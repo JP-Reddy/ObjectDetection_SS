@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gloria Three Seater Sofa with Ottoman in Blue Colour by CasaCraft</folder>
+	<filename>Gloria Three Seater Sofa with Ottoman in Blue Colour by CasaCraft-7.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\Three Seater Sofas\Gloria Three Seater Sofa with Ottoman in Blue Colour by CasaCraft\Gloria Three Seater Sofa with Ottoman in Blue Colour by CasaCraft-7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloria Three Seater Sofa with Ottoman in Blue Colour by CasaCraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>19</ymin>
+			<xmax>1587</xmax>
+			<ymax>755</ymax>
+		</bndbox>
+	</object>
+</annotation>
