@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Juan Three Seater Sofa in Garnet Red Colour by CasaCraft</folder>
+	<filename>Juan Three Seater Sofa in Garnet Red Colour by CasaCraft-7.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\Three Seater Sofas\Juan Three Seater Sofa in Garnet Red Colour by CasaCraft\Juan Three Seater Sofa in Garnet Red Colour by CasaCraft-7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Juan Three Seater Sofa in Garnet Red Colour by CasaCraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>16</ymin>
+			<xmax>1184</xmax>
+			<ymax>755</ymax>
+		</bndbox>
+	</object>
+</annotation>

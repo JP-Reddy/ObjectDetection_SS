@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Harleston Three Seater Sofa in Provincial Teak Finish by Amberville</folder>
+	<filename>Harleston Three Seater Sofa in Provincial Teak Finish by Amberville-2.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\Three Seater Sofas\Harleston Three Seater Sofa in Provincial Teak Finish by Amberville\Harleston Three Seater Sofa in Provincial Teak Finish by Amberville-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Harleston Three Seater Sofa in Provincial Teak Finish by Amberville</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>240</ymin>
+			<xmax>122</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Harleston Three Seater Sofa in Provincial Teak Finish by Amberville</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>121</ymin>
+			<xmax>1429</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>

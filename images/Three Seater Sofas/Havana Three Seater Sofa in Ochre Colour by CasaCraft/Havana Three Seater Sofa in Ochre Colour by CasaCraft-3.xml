@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Havana Three Seater Sofa in Ochre Colour by CasaCraft</folder>
+	<filename>Havana Three Seater Sofa in Ochre Colour by CasaCraft-3.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\Three Seater Sofas\Havana Three Seater Sofa in Ochre Colour by CasaCraft\Havana Three Seater Sofa in Ochre Colour by CasaCraft-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Havana Three Seater Sofa in Ochre Colour by CasaCraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>658</xmin>
+			<ymin>350</ymin>
+			<xmax>1352</xmax>
+			<ymax>739</ymax>
+		</bndbox>
+	</object>
+</annotation>
