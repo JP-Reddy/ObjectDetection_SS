@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New Ciara Three Seater Sofa in Dual Tone by Crystal Furnitech</folder>
+	<filename>New Ciara Three Seater Sofa in Dual Tone by Crystal Furnitech-6.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/Three Seater Sofas/New Ciara Three Seater Sofa in Dual Tone by Crystal Furnitech/New Ciara Three Seater Sofa in Dual Tone by Crystal Furnitech-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>New Ciara Three Seater Sofa in Dual Tone by Crystal Furnitech</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>11</ymin>
+			<xmax>1154</xmax>
+			<ymax>742</ymax>
+		</bndbox>
+	</object>
+</annotation>

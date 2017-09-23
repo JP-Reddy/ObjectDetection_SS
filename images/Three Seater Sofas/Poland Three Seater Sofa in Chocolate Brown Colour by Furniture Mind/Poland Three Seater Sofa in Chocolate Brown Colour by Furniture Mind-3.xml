@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Poland Three Seater Sofa in Chocolate Brown Colour by Furniture Mind</folder>
+	<filename>Poland Three Seater Sofa in Chocolate Brown Colour by Furniture Mind-3.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/Three Seater Sofas/Poland Three Seater Sofa in Chocolate Brown Colour by Furniture Mind/Poland Three Seater Sofa in Chocolate Brown Colour by Furniture Mind-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Poland Three Seater Sofa in Chocolate Brown Colour by Furniture Mind</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>600</xmin>
+			<ymin>311</ymin>
+			<xmax>1231</xmax>
+			<ymax>742</ymax>
+		</bndbox>
+	</object>
+</annotation>
