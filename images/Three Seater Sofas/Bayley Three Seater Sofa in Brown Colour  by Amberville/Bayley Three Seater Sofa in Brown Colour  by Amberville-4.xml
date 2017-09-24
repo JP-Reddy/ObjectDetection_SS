@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bayley Three Seater Sofa in Brown Colour	by Amberville</folder>
+	<filename>Bayley Three Seater Sofa in Brown Colour	by Amberville-4.jpg</filename>
+	<path>D:\Projects\ObjectDetection\development\Scraper\development\images\Three Seater Sofas\Bayley Three Seater Sofa in Brown Colour	by Amberville\Bayley Three Seater Sofa in Brown Colour	by Amberville-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bayley Three Seater Sofa in Brown Colour	by Amberville</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>3</ymin>
+			<xmax>1569</xmax>
+			<ymax>763</ymax>
+		</bndbox>
+	</object>
+</annotation>

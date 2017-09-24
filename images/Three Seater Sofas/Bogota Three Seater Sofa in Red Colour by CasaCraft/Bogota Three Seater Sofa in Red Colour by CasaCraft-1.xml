@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bogota Three Seater Sofa in Red Colour by CasaCraft</folder>
+	<filename>Bogota Three Seater Sofa in Red Colour by CasaCraft-1.jpg</filename>
+	<path>D:\Projects\ObjectDetection\development\Scraper\development\images\Three Seater Sofas\Bogota Three Seater Sofa in Red Colour by CasaCraft\Bogota Three Seater Sofa in Red Colour by CasaCraft-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bogota Three Seater Sofa in Red Colour by CasaCraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>138</ymin>
+			<xmax>1499</xmax>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+</annotation>

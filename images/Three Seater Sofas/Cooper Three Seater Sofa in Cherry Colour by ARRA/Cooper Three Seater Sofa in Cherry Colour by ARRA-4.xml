@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cooper Three Seater Sofa in Cherry Colour by ARRA</folder>
+	<filename>Cooper Three Seater Sofa in Cherry Colour by ARRA-4.jpg</filename>
+	<path>D:\Projects\ObjectDetection\development\Scraper\development\images\Three Seater Sofas\Cooper Three Seater Sofa in Cherry Colour by ARRA\Cooper Three Seater Sofa in Cherry Colour by ARRA-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cooper Three Seater Sofa in Cherry Colour by ARRA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>13</ymin>
+			<xmax>1594</xmax>
+			<ymax>784</ymax>
+		</bndbox>
+	</object>
+</annotation>

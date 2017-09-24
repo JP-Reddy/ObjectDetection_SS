@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Belem Three Seater Sofa in Sandy Brown Color by CasaCraft</folder>
+	<filename>Belem Three Seater Sofa in Sandy Brown Color by CasaCraft-10.jpg</filename>
+	<path>D:\Projects\ObjectDetection\development\Scraper\development\images\Three Seater Sofas\Belem Three Seater Sofa in Sandy Brown Color by CasaCraft\Belem Three Seater Sofa in Sandy Brown Color by CasaCraft-10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Belem Three Seater Sofa in Ice Blue Color by CasaCraft</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>29</ymin>
+			<xmax>1600</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+</annotation>

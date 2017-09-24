@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cielo Three Seater Sofa in Chestnut Brown Colour by CasaCraft</folder>
+	<filename>Cielo Three Seater Sofa in Chestnut Brown Colour by CasaCraft-1.jpg</filename>
+	<path>D:\Projects\ObjectDetection\development\Scraper\development\images\Three Seater Sofas\Cielo Three Seater Sofa in Chestnut Brown Colour by CasaCraft\Cielo Three Seater Sofa in Chestnut Brown Colour by CasaCraft-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cielo Three Seater Sofa in Chestnut Brown Colour by CasaCraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>192</ymin>
+			<xmax>1497</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>

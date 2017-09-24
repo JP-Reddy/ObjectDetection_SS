@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Anne Three Seater Sofa in Provincial Teak Finish by Amberville</folder>
+	<filename>Anne Three Seater Sofa in Provincial Teak Finish by Amberville-4.jpg</filename>
+	<path>D:\Projects\ObjectDetection\development\Scraper\development\images\Three Seater Sofas\Anne Three Seater Sofa in Provincial Teak Finish by Amberville\Anne Three Seater Sofa in Provincial Teak Finish by Amberville-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anne Three Seater Sofa in Provincial Teak Finish by Amberville</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>295</ymin>
+			<xmax>961</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Anne Three Seater Sofa in Provincial Teak Finish by Amberville</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>317</ymin>
+			<xmax>347</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Belem Three Seater Sofa in Charcoal Grey Color by CasaCraft</folder>
+	<filename>Belem Three Seater Sofa in Charcoal Grey Color by CasaCraft-2.jpg</filename>
+	<path>D:\Projects\ObjectDetection\development\Scraper\development\images\Three Seater Sofas\Belem Three Seater Sofa in Charcoal Grey Color by CasaCraft\Belem Three Seater Sofa in Charcoal Grey Color by CasaCraft-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Belem Three Seater Sofa in Charcoal Grey Color by CasaCraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>27</ymin>
+			<xmax>1537</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

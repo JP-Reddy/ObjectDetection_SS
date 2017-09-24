@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Belem Three Seater Sofa in Garnet Red Color by CasaCraft</folder>
+	<filename>Belem Three Seater Sofa in Garnet Red Color by CasaCraft-9.jpg</filename>
+	<path>D:\Projects\ObjectDetection\development\Scraper\development\images\Three Seater Sofas\Belem Three Seater Sofa in Garnet Red Color by CasaCraft\Belem Three Seater Sofa in Garnet Red Color by CasaCraft-9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Belem Three Seater Sofa in Garnet Red Color by CasaCraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>122</ymin>
+			<xmax>1581</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+</annotation>

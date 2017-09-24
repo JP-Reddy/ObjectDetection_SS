@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Diego Three Seater Sofa in Denim Blue Colour by CasaCraft</folder>
+	<filename>Diego Three Seater Sofa in Denim Blue Colour by CasaCraft-1.jpg</filename>
+	<path>D:\Projects\ObjectDetection\development\Scraper\development\images\Three Seater Sofas\Diego Three Seater Sofa in Denim Blue Colour by CasaCraft\Diego Three Seater Sofa in Denim Blue Colour by CasaCraft-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diego Three Seater Sofa in Denim Blue Colour by CasaCraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>136</ymin>
+			<xmax>1448</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+</annotation>
