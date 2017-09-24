@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Juan Three Seater Sofa in Sandy Brown Colour by CasaCraft</folder>
+	<filename>Juan Three Seater Sofa in Sandy Brown Colour by CasaCraft-2.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/Three Seater Sofas/Juan Three Seater Sofa in Sandy Brown Colour by CasaCraft/Juan Three Seater Sofa in Sandy Brown Colour by CasaCraft-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Juan Three Seater Sofs in Sandy Brown Colour by CasaCraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>23</ymin>
+			<xmax>1441</xmax>
+			<ymax>744</ymax>
+		</bndbox>
+	</object>
+</annotation>

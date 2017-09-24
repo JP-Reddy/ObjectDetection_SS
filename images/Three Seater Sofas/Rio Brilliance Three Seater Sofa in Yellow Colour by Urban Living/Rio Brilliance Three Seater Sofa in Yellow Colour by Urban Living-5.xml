@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rio Brilliance Three Seater Sofa in Yellow Colour by Urban Living</folder>
+	<filename>Rio Brilliance Three Seater Sofa in Yellow Colour by Urban Living-5.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/Three Seater Sofas/Rio Brilliance Three Seater Sofa in Yellow Colour by Urban Living/Rio Brilliance Three Seater Sofa in Yellow Colour by Urban Living-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rio Brilliance Three Seater Sofa in Yellow Colour by Urban Living</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>5</ymin>
+			<xmax>1143</xmax>
+			<ymax>739</ymax>
+		</bndbox>
+	</object>
+</annotation>

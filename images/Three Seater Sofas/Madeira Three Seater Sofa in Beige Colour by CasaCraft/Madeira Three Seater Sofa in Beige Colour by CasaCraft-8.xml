@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Madeira Three Seater Sofa in Beige Colour by CasaCraft</folder>
+	<filename>Madeira Three Seater Sofa in Beige Colour by CasaCraft-8.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/Three Seater Sofas/Madeira Three Seater Sofa in Beige Colour by CasaCraft/Madeira Three Seater Sofa in Beige Colour by CasaCraft-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Madeira Three Seater Sofa in Beige Colour by CasaCraft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>31</ymin>
+			<xmax>1126</xmax>
+			<ymax>741</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hamfir Three Seater Sofa in Brown Colour by Furniture Mind</folder>
+	<filename>Hamfir Three Seater Sofa in Brown Colour by Furniture Mind-5.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\Three Seater Sofas\Hamfir Three Seater Sofa in Brown Colour by Furniture Mind\Hamfir Three Seater Sofa in Brown Colour by Furniture Mind-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hamfir Three Seater Sofa in Brown Colour by Furniture Mind</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>22</ymin>
+			<xmax>1163</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>
